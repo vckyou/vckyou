@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 📫 Feel free to contact me anytime
-[<img src="">](https://t.me/Vckyouuu)
+[<img src="Telegram">](https://t.me/Vckyouuu)
 <a href="https://www.instagram.com/Vckyouuu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Vckyou&show_icons=true&theme=radical)
