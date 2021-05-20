@@ -31,7 +31,6 @@
 ### Let's connect!
 <p>
     <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.shields.io/badge/Vicky Aulia Zulfikar-30302f?style=flat&logo=facebook" /></a>
-    <a href="https://vckyou.medium.com/" target="blank"><img src="https://img.shields.io/badge/@VckyouuBitch-30302f?style=flat&logo=medium" /></a>
     <a href="https://t.me/VckyouuBitch" target="blank"><img src="https://img.shields.io/badge/@VckyouuBitch-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/Vckyouuu" target="blank"><img src="https://img.shields.io/badge/@Vckyouuu-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/Vckyouuu" target="blank"><img src="https://img.shields.io/badge/@Vckyouuu-30302f?style=flat&logo=twitter" /></a>
